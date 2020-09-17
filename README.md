@@ -1,4 +1,21 @@
-# New PixelBattle Bot (если будут ошибки - в [эту](https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg) конфу спрашивать )
+<br />
+ <h3 align="center">Best-README-Template</h3>
+
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
+</p>
+
+New PixelBattle Bot (если будут ошибки - в [эту](https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg) конфу спрашивать )
 ### Установка PC
 1. Использовать браузер **Chrome** или **Yandex**
 2. Скачать расширение [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
